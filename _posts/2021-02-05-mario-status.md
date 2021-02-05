@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 🔴 No 
+title: 🔴 No 😔
 ---
 
 {% comment %} ✅ Yes! {% endcomment %}
-{% comment %} 🔴 No {% endcomment %}
+{% comment %} 🔴 No 😔{% endcomment %}
