@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🔴 No 😔
+title: ✅ Yes!
 ---
 
 {% comment %} ✅ Yes! {% endcomment %}
